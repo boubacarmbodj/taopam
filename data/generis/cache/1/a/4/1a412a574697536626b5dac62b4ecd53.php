@@ -1,0 +1,1 @@
+<?php return array(0 => 'getData',1 => 'setValues',2 => 'setReverseValues',3 => 'hasAccess',4 => 'getRawParameter');

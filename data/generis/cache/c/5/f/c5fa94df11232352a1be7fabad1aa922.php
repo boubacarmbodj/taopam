@@ -1,0 +1,1 @@
+<?php return array(0 => 'index',1 => 'hasAccess',2 => 'getRawParameter',3 => 'getEventManager');

@@ -1,0 +1,1 @@
+<?php return array(0 => 'upload',1 => 'downloadFile',2 => 'getPropertyFileInfo',3 => 'accessFile',4 => 'hasAccess',5 => 'getRawParameter');

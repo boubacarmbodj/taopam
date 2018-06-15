@@ -1,0 +1,1 @@
+<?php return array(0 => 'get',1 => 'getItemClasses',2 => 'getItems',3 => 'getCategories',4 => 'hasAccess',5 => 'getRawParameter');

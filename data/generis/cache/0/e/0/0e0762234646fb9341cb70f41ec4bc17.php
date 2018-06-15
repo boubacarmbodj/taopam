@@ -1,0 +1,1 @@
+<?php return array(0 => 'config',1 => 'hasAccess',2 => 'getRawParameter');

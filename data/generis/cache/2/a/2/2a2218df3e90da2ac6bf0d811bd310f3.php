@@ -1,0 +1,1 @@
+<?php return array(0 => 'http://www.tao.lu/Ontologies/TAO.rdf#FrontOfficeRole',1 => 'http://www.tao.lu/Ontologies/TAO.rdf#BaseUserRole',2 => 'http://www.tao.lu/Ontologies/generis.rdf#AnonymousRole',3 => 'http://www.tao.lu/Ontologies/generis.rdf#GenerisRole');

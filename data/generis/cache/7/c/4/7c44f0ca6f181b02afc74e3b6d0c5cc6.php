@@ -1,0 +1,1 @@
+<?php return array(0 => 'password',1 => 'properties',2 => 'hasAccess',3 => 'getRawParameter');

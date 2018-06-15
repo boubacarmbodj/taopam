@@ -1,0 +1,1 @@
+<?php return array(0 => 'index',1 => 'getCsvFileByDelivery',2 => 'getCsvFile',3 => 'getResultOfSubjectColumn',4 => 'getResponseColumns',5 => 'getGradeColumns',6 => 'data',7 => 'hasAccess',8 => 'getRawParameter');

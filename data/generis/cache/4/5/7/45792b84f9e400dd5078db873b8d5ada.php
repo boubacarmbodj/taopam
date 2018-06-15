@@ -1,0 +1,1 @@
+<?php return array(0 => 'createItem',1 => 'index',2 => 'getMediaSources',3 => 'getItemData',4 => 'saveItem',5 => 'getFile',6 => 'hasAccess',7 => 'getRawParameter',8 => 'getEventManager');

@@ -1,0 +1,1 @@
+<?php return array(0 => 'create',1 => 'edit',2 => 'getRequestParameters',3 => 'hasAccess',4 => 'getRawParameter',5 => 'getModel',6 => 'setModel',7 => 'getResource',8 => 'getClass',9 => 'getProperty');
